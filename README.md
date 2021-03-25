@@ -16,16 +16,12 @@ Teniendo integrado los siguientes puntos:
 Para la creación de la mayoría de los planetas, se utilizó un Shader Lit que forma parte del universal render pipeline, una vez creado el desarrollo del shader se dividió en cuatro segmentos importantes que lo conformarán mediante el uso de nodos. Que vendrían siendo la main texture, el normal map, la Rim Light y el occlussion junto a Visual Effects.
 
 **Main Texture**
-![alt text](foto 1)
 
 **Normal Map**
-![alt text](foto 2)
 
 **Rim Light**
-![alt text](foto 3)
 
 **Occlussion**
-![alt text](foto 4)
 
 **Video Animacion**
 
