@@ -81,17 +81,19 @@ Primero seleccionamos el spawn rate, que es la cantidad de veces que aparecerán
 
 Luego se ve la parte de “Initialize Particles” en la que ponemos el número de partículas que spawneen, o aparecerán en el tiempo elegido anteriormente, abajo de este, está su tiempo de vida, y se tiene A u B.
 
-![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2011.png)
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2012.1.png)
 
 Lo siguiente fue escoger su tipo de posición y forma de esta que tomará, pero necesitará una fuerza más adelante, se escogió el surface, por que se vería mejor.
 
-![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2012.png)
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2011.png)
 
 Por consiguiente se pasa a *“Update Particles”* aquí escoge la fuerza que necesitarán las partículas para que este tome realmente la forma de la esfera, y sea forzado a esta, modificarla como el radio que tendrá entre otras cosas como la atracción, etc.
 
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2012.png)
+
 Lo siguiente es la turbulencia, que se tomó como relativa, se le dio una intensidad y un *“Drag”* que ayudará a dar el efecto de los gases saliendo del sol., la frecuencia en 5 junto a los valores que se pueden observar en la imagen de la derecha.
 
-![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2012.1.png)
+
 
 
 Por último tenemos el *“Output Particle”*, aquí es donde los efectos pueden tomar como en este caso, color, alpha y un blend en cualquiera de estas, y se visualiza de mejor manera.
