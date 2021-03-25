@@ -120,9 +120,8 @@ Como conclusión, podemos decir que el resultado obtenido fue satisfactorio, se 
 --------------
 #Referencias
 -----------
-- Sistema Solar en Github: </https://github.com/Lelmats/Sistema-Solar/tree/main/>
-- Tamaños y Orden: </https://solarsystem.nasa.gov/planets/overview/>
-- Texturas: </https:://Textures.com/>
+- Documentación de medidas: </https://solarsystem.nasa.gov/planets/overview/>
+- Texturas: </https://www.textures.com/browse/3d-scans/114548/>
 - Texturas: </https://www.solarsystemscope.com/textures/>
 
 -----------
