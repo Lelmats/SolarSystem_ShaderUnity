@@ -91,16 +91,15 @@ Por consiguiente se pasa a *“Update Particles”* aquí escoge la fuerza que n
 
 ![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2012.png)
 
-Lo siguiente es la turbulencia, que se tomó como relativa, se le dio una intensidad y un *“Drag”* que ayudará a dar el efecto de los gases saliendo del sol., la frecuencia en 5 junto a los valores que se pueden observar en la imagen de la derecha.
-
-
+Lo siguiente es la turbulencia, que se tomó como relativa, se le dio una intensidad y un *“Drag”* que ayudará a dar el efecto de los gases saliendo del sol., la frecuencia en 5 junto a los valores que se pueden observar en la siguiente imagen.
 
 
 Por último tenemos el *“Output Particle”*, aquí es donde los efectos pueden tomar como en este caso, color, alpha y un blend en cualquiera de estas, y se visualiza de mejor manera.
 
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2013.1.png)
+
 Aquí se le añadió tamaño a las partículas, de manera general y luego un Scale XYZ, para que fueran más planas y se apreciara mejor.
 
-![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2013.1.png)
 
 ![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2013.2.png)
 
@@ -125,9 +124,8 @@ Como conclusión, podemos decir que el resultado obtenido fue satisfactorio, se 
 --------------
 #Referencias
 -----------
-- Sistema Solar en Github: </https://github.com/Lelmats/Sistema-Solar/tree/main/>
-- Tamaños y Orden: </https://solarsystem.nasa.gov/planets/overview/>
-- Texturas: </https:://Textures.com/>
+- Medidas: </https://solarsystem.nasa.gov/planets/overview/>
+- Texturas: </https://www.textures.com/library/>
 - Texturas: </https://www.solarsystemscope.com/textures/>
 
 -----------
