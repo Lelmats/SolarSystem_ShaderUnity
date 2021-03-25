@@ -85,7 +85,7 @@ Lo siguiente fue escoger su tipo de posición y forma de esta que tomará, pero 
 
 Por consiguiente se pasa a *“Update Particles”* aquí escoge la fuerza que necesitarán las partículas para que este tome realmente la forma de la esfera, y sea forzado a esta, modificarla como el radio que tendrá entre otras cosas como la atracción, etc.
 
-Lo siguiente es la turbulencia, que se tomó como relativa, se le dio una intensidad y un *“Drag”* que ayudará a dar el efecto de los gases saliendo del sol., la frecuencia en 5 junto a los valores que se pueden observar en la imagen de la derecha.
+Lo siguiente es la turbulencia, que se tomó como relativa, se le dio una intensidad y un *“Drag”* que ayudará a dar el efecto de los gases saliendo del sol., la frecuencia en 5 junto a los valores que se pueden observar en la siguiente.
 
 ![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2012.png)
 
