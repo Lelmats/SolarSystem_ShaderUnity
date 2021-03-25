@@ -61,7 +61,7 @@ Un efecto importante para la composición del planeta fue el de un anillo de luz
 
 El último efecto añadido fue el de oclusión ambiental, el cual añade efectos muy sutiles de gases a la atmósfera del planeta, y su UV está conectada con el mismo Tiling and Offset que las demás. Es una textura que se ubica conecta en el nodo de oclusión ambiental en el fragmento.
 
-![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%207.png)
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%208.png)
 
 Este es el resultado del planeta:
 
@@ -79,7 +79,7 @@ Primero seleccionamos el spawn rate, que es la cantidad de veces que aparecerán
 
 Luego se ve la parte de “Initialize Particles” en la que ponemos el número de partículas que spawneen, o aparecerán en el tiempo elegido anteriormente, abajo de este, está su tiempo de vida, y se tiene A u B.
 
-![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2011.png)
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2012.1.png)
 
 Lo siguiente fue escoger su tipo de posición y forma de esta que tomará, pero necesitará una fuerza más adelante, se escogió el surface, por que se vería mejor.
 
