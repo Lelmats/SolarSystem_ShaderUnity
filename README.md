@@ -28,6 +28,7 @@ Para la creación de la mayoría de los planetas, se utilizó un Shader Lit que 
 ![alt text](foto 4)
 
 **Video Animacion**
+
 [![Watch the video](https://i.ytimg.com/an_webp/YaY5JiCBLmk/mqdefault_6s.webp?du=3000&sqp=CPyv74IG&rs=AOn4CLBw3hVuIiAeDHuuygoQ3d89NQ3-nQ)](https://youtu.be/YaY5JiCBLmk)
 
 **Obtencion de Texturas**
