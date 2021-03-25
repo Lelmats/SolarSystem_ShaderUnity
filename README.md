@@ -94,7 +94,9 @@ Por último tenemos el *“Output Particle”*, aquí es donde los efectos puede
 
 Aquí se le añadió tamaño a las partículas, de manera general y luego un Scale XYZ, para que fueran más planas y se apreciara mejor.
 
-![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2013.png)
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2013.1.png)
+
+![alt text](https://github.com/Lelmats/Sistema-Solar/blob/main/Images/Foto%2013.2.png)
 
 
 Agregamos un color naranja de base, asi luego poner un color amarillo en el caso de sol, dandole un efecto HDR, en el cual pues nos dará un efecto de iluminado y emisivo. al final un “Blend Alpha” que nos dará otro efecto visual interesante. En el caso de los anillos de Saturno, se cambiaron algunos datos que se pueden ver a continuación.
