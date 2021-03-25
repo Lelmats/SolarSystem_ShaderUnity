@@ -121,9 +121,9 @@ Como conclusión, podemos decir que el resultado obtenido fue satisfactorio, se 
 --------------
 #Referencias
 -----------
-- Medidas: </https://solarsystem.nasa.gov/planets/overview/>
-- Texturas: </https://www.textures.com/library/>
-- Texturas: </https://www.solarsystemscope.com/textures/>
+- Medidas: N.A.S.A. (2021). Solar System. NASA Solar System Exploration. https://solarsystem.nasa.gov/
+- Texturas: Textures 3D. (n.d.). Textures. Retrieved March 24, 2021, from https://www.textures.com/
+- Texturas: Solar System Scope. (2021). Solar System Textures. Solarsystemscope. https://www.solarsystemscope.com/
 
 -----------
 #Integrantes
