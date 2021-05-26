@@ -25,7 +25,7 @@ Para la creación de la mayoría de los planetas, se utilizó un Shader Lit que 
 
 **Video Animacion**
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/BfeEJ3E1GHU/mqdefault.webp?time=1622001900000&sqp=COyRt4UG&rs=AOn4CLBQBrDqcp7Zx3ciyjYHJfpRTEEk0g)](https://www.youtube.com/watch?v=BfeEJ3E1GHU)
+[![Watch the video](https://i.ytimg.com/an_webp/YaY5JiCBLmk/mqdefault_6s.webp?du=3000&sqp=CPyv74IG&rs=AOn4CLBw3hVuIiAeDHuuygoQ3d89NQ3-nQ)](https://youtu.be/YaY5JiCBLmk)
 
 **Obtencion de Texturas**
 Para obtener la textura base de los planetas, se visitó el sitio Solar System Scope, donde se pueden encontrar texturas reales en resolución 2K de todos los planetas de forma gratuita.
